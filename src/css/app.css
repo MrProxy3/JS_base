@@ -1,0 +1,17 @@
+body {
+    background: #ebebeb;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li, h2 {
+    font: bold 25px cursive;
+    color: #10105b;
+}
+
+h2 {
+    text-decoration: underline;
+}
